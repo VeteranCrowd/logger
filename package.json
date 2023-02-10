@@ -15,9 +15,8 @@
     "logging"
   ],
   "dependencies": {
-    "lodash.isplainobject": "^4.0.6",
-    "logform": "^2.4.2",
-    "winston": "^3.8.2"
+    "lodash.isnil": "^4.0.0",
+    "lodash.isplainobject": "^4.0.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.20.7",
